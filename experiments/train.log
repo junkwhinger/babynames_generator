@@ -1,0 +1,1268 @@
+2018-09-04 15:19:08,910:INFO: --
+2018-09-04 15:20:18,706:INFO: [Initiate training with --     - batch_size: 16    - device: cpu]
+2018-09-04 15:20:26,337:INFO: [Initiate training with --     - batch_size: 16
+    - device: cpu
+]
+2018-09-04 15:20:36,465:INFO: [Initiate training with -- 
+    - batch_size: 16
+    - device: cpu
+]
+2018-09-04 15:20:43,395:INFO: [Initiate training with
+    - batch_size: 16
+    - device: cpu
+]
+2018-09-04 15:20:52,786:INFO: [Initiate training]
+    - batch_size: 16
+    - device: cpu
+
+2018-09-04 15:21:12,530:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+
+2018-09-04 15:40:05,195:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+
+2018-09-04 15:40:05,196:INFO: -- loading the dataset..
+2018-09-04 15:40:21,787:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+
+2018-09-04 15:40:21,787:INFO: -- loading the dataset..
+2018-09-04 15:40:49,213:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+
+2018-09-04 15:40:49,213:INFO: -- loading the dataset..
+2018-09-04 15:40:54,091:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+
+2018-09-04 15:40:54,092:INFO: -- loading the dataset..
+2018-09-04 15:42:05,785:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+
+2018-09-04 15:42:05,785:INFO: -- loading the dataset..
+2018-09-04 15:44:42,393:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+    - embeddding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:44:42,393:INFO: -- loading the dataset..
+2018-09-04 15:44:57,530:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+    - embeddding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:44:57,530:INFO: -- loading the dataset..
+2018-09-04 15:45:03,724:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+    - embeddding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:45:03,725:INFO: -- loading the dataset..
+2018-09-04 15:45:18,429:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+    - embeddding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:45:18,429:INFO: -- loading the dataset..
+2018-09-04 15:47:14,440:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embeddding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:47:14,440:INFO: -- loading the dataset..
+2018-09-04 15:49:20,061:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:49:20,061:INFO: -- loading the dataset..
+2018-09-04 15:51:23,793:INFO: -- initiating TRAINING..
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:51:23,793:INFO: -- loading the dataset..
+2018-09-04 15:52:14,195:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 15:52:14,195:INFO: -- loading the dataset..
+2018-09-04 15:52:14,564:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:02:41,396:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:02:41,396:INFO: -- loading the dataset..
+2018-09-04 16:02:41,779:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:02:41,780:INFO: Epoch 1/1
+2018-09-04 16:08:50,085:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:08:50,085:INFO: -- loading the dataset..
+2018-09-04 16:08:50,493:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:08:50,494:INFO: Epoch 1/1
+2018-09-04 16:09:40,554:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:09:40,554:INFO: -- loading the dataset..
+2018-09-04 16:09:40,939:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:09:40,939:INFO: Epoch 1/1
+2018-09-04 16:10:42,544:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:10:42,545:INFO: -- loading the dataset..
+2018-09-04 16:10:42,910:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:10:42,910:INFO: Epoch 1/1
+2018-09-04 16:11:28,196:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:11:28,196:INFO: -- loading the dataset..
+2018-09-04 16:11:28,566:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:11:28,566:INFO: Epoch 1/1
+2018-09-04 16:12:14,362:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:12:14,362:INFO: -- loading the dataset..
+2018-09-04 16:12:14,744:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:12:14,744:INFO: Epoch 1/1
+2018-09-04 16:12:38,416:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:12:38,417:INFO: -- loading the dataset..
+2018-09-04 16:12:38,800:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:12:38,800:INFO: Epoch 1/1
+2018-09-04 16:12:47,078:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:12:47,078:INFO: -- loading the dataset..
+2018-09-04 16:12:47,481:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:12:47,482:INFO: Epoch 1/1
+2018-09-04 16:13:42,175:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:13:42,175:INFO: -- loading the dataset..
+2018-09-04 16:13:42,559:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:13:42,559:INFO: Epoch 1/1
+2018-09-04 16:14:47,767:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:14:47,767:INFO: -- loading the dataset..
+2018-09-04 16:14:48,199:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:14:48,200:INFO: Epoch 1/1
+2018-09-04 16:14:48,371:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:14:48,371:INFO: -- loading the dataset..
+2018-09-04 16:14:49,494:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:14:49,494:INFO: Epoch 1/1
+2018-09-04 16:15:13,931:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:15:13,931:INFO: -- loading the dataset..
+2018-09-04 16:15:14,338:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:15:14,338:INFO: Epoch 1/1
+2018-09-04 16:15:24,119:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:15:24,119:INFO: -- loading the dataset..
+2018-09-04 16:15:24,501:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:15:24,501:INFO: Epoch 1/1
+2018-09-04 16:17:54,881:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:17:54,882:INFO: -- loading the dataset..
+2018-09-04 16:17:55,349:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:17:55,349:INFO: Epoch 1/1
+2018-09-04 16:19:55,972:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:19:55,972:INFO: -- loading the dataset..
+2018-09-04 16:19:56,358:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:19:56,358:INFO: Epoch 1/1
+2018-09-04 16:23:06,877:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:23:06,877:INFO: -- loading the dataset..
+2018-09-04 16:23:07,257:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:23:07,258:INFO: Epoch 1/1
+2018-09-04 16:23:14,091:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:23:14,091:INFO: -- loading the dataset..
+2018-09-04 16:23:14,489:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:23:14,490:INFO: Epoch 1/1
+2018-09-04 16:23:21,875:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:23:21,875:INFO: -- loading the dataset..
+2018-09-04 16:23:24,014:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:23:24,014:INFO: -- loading the dataset..
+2018-09-04 16:23:24,398:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:23:24,399:INFO: Epoch 1/1
+2018-09-04 16:24:16,898:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:24:16,913:INFO: -- loading the dataset..
+2018-09-04 16:24:17,307:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:24:17,312:INFO: Epoch 1/1
+2018-09-04 16:24:26,270:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:24:26,270:INFO: -- loading the dataset..
+2018-09-04 16:24:26,651:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:24:26,651:INFO: Epoch 1/1
+2018-09-04 16:24:29,076:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:24:29,076:INFO: -- loading the dataset..
+2018-09-04 16:24:29,445:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:24:29,447:INFO: Epoch 1/1
+2018-09-04 16:24:49,487:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:24:49,487:INFO: -- loading the dataset..
+2018-09-04 16:24:49,861:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:24:49,861:INFO: Epoch 1/1
+2018-09-04 16:25:24,676:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:25:24,676:INFO: -- loading the dataset..
+2018-09-04 16:25:25,066:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:25:25,066:INFO: Epoch 1/1
+2018-09-04 16:25:47,694:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:25:47,694:INFO: -- loading the dataset..
+2018-09-04 16:25:48,093:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:25:48,094:INFO: Epoch 1/1
+2018-09-04 16:25:59,982:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:25:59,982:INFO: -- loading the dataset..
+2018-09-04 16:26:00,359:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:26:00,360:INFO: Epoch 1/1
+2018-09-04 16:39:42,458:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:39:42,458:INFO: -- loading the dataset..
+2018-09-04 16:39:42,834:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:39:42,835:INFO: Epoch 1/1
+2018-09-04 16:45:54,948:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:45:54,949:INFO: -- loading the dataset..
+2018-09-04 16:45:55,384:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:45:55,384:INFO: Epoch 1/1
+2018-09-04 16:49:51,680:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+
+2018-09-04 16:49:51,680:INFO: -- loading the dataset..
+2018-09-04 16:49:52,053:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:49:52,054:INFO: Epoch 1/1
+2018-09-04 16:51:10,932:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_classes: 2
+
+2018-09-04 16:51:10,933:INFO: -- loading the dataset..
+2018-09-04 16:51:11,311:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:51:11,312:INFO: Epoch 1/1
+2018-09-04 16:54:43,231:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 16:54:43,232:INFO: -- loading the dataset..
+2018-09-04 16:54:43,606:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:54:43,606:INFO: Epoch 1/1
+2018-09-04 16:54:55,954:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 16:54:55,954:INFO: -- loading the dataset..
+2018-09-04 16:54:56,343:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:54:56,346:INFO: Epoch 1/1
+2018-09-04 16:55:05,005:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 16:55:05,005:INFO: -- loading the dataset..
+2018-09-04 16:55:05,427:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:55:05,427:INFO: Epoch 1/1
+2018-09-04 16:55:38,065:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 16:55:38,066:INFO: -- loading the dataset..
+2018-09-04 16:55:38,447:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:55:38,447:INFO: Epoch 1/1
+2018-09-04 16:56:31,813:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 16:56:31,813:INFO: -- loading the dataset..
+2018-09-04 16:56:32,236:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:56:32,236:INFO: Epoch 1/1
+2018-09-04 16:56:41,219:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 16:56:41,219:INFO: -- loading the dataset..
+2018-09-04 16:56:41,633:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:56:41,633:INFO: Epoch 1/1
+2018-09-04 16:57:37,528:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 16:57:37,528:INFO: -- loading the dataset..
+2018-09-04 16:57:37,901:INFO: -- start training for 1 epoch(s)
+2018-09-04 16:57:37,901:INFO: Epoch 1/1
+2018-09-04 17:05:23,601:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:05:23,601:INFO: -- loading the dataset..
+2018-09-04 17:05:23,983:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:05:23,984:INFO: Epoch 1/1
+2018-09-04 17:05:47,467:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:05:47,467:INFO: -- loading the dataset..
+2018-09-04 17:05:47,842:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:05:47,842:INFO: Epoch 1/1
+2018-09-04 17:07:07,358:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:07:07,358:INFO: -- loading the dataset..
+2018-09-04 17:07:07,764:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:07:07,764:INFO: Epoch 1/1
+2018-09-04 17:07:37,729:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:07:37,729:INFO: -- loading the dataset..
+2018-09-04 17:07:38,124:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:07:38,124:INFO: Epoch 1/1
+2018-09-04 17:07:45,888:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:07:45,888:INFO: -- loading the dataset..
+2018-09-04 17:07:46,302:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:07:46,303:INFO: Epoch 1/1
+2018-09-04 17:08:18,507:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:08:18,507:INFO: -- loading the dataset..
+2018-09-04 17:08:18,918:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:08:18,918:INFO: Epoch 1/1
+2018-09-04 17:08:26,019:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:08:26,019:INFO: -- loading the dataset..
+2018-09-04 17:08:26,423:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:08:26,427:INFO: Epoch 1/1
+2018-09-04 17:08:39,923:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:08:39,923:INFO: -- loading the dataset..
+2018-09-04 17:08:40,340:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:08:40,340:INFO: Epoch 1/1
+2018-09-04 17:09:49,404:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:09:49,405:INFO: -- loading the dataset..
+2018-09-04 17:09:49,792:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:09:49,793:INFO: Epoch 1/1
+2018-09-04 17:11:39,021:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:11:39,021:INFO: -- loading the dataset..
+2018-09-04 17:11:39,421:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:11:39,422:INFO: Epoch 1/1
+2018-09-04 17:12:09,916:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:12:09,916:INFO: -- loading the dataset..
+2018-09-04 17:12:10,299:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:12:10,299:INFO: Epoch 1/1
+2018-09-04 17:12:24,465:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:12:24,465:INFO: -- loading the dataset..
+2018-09-04 17:12:24,861:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:12:24,861:INFO: Epoch 1/1
+2018-09-04 17:17:48,125:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:17:48,125:INFO: -- loading the dataset..
+2018-09-04 17:17:48,523:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:17:48,523:INFO: Epoch 1/1
+2018-09-04 17:17:57,331:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:17:57,331:INFO: -- loading the dataset..
+2018-09-04 17:17:57,724:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:17:57,724:INFO: Epoch 1/1
+2018-09-04 17:18:16,931:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 2
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:18:16,931:INFO: -- loading the dataset..
+2018-09-04 17:18:17,305:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:18:17,305:INFO: Epoch 1/1
+2018-09-04 17:19:57,878:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:19:57,878:INFO: -- loading the dataset..
+2018-09-04 17:19:58,253:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:19:58,254:INFO: Epoch 1/1
+2018-09-04 17:21:11,395:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:21:11,395:INFO: -- loading the dataset..
+2018-09-04 17:21:11,765:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:21:11,765:INFO: Epoch 1/1
+2018-09-04 17:22:11,487:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:22:11,487:INFO: -- loading the dataset..
+2018-09-04 17:22:11,874:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:22:11,874:INFO: Epoch 1/1
+2018-09-04 17:22:50,493:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:22:50,493:INFO: -- loading the dataset..
+2018-09-04 17:22:50,883:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:22:50,883:INFO: Epoch 1/1
+2018-09-04 17:23:28,857:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:23:28,857:INFO: -- loading the dataset..
+2018-09-04 17:23:59,393:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:23:59,393:INFO: -- loading the dataset..
+2018-09-04 17:23:59,800:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:23:59,800:INFO: Epoch 1/1
+2018-09-04 17:24:09,296:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:24:09,296:INFO: -- loading the dataset..
+2018-09-04 17:24:09,688:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:24:09,688:INFO: Epoch 1/1
+2018-09-04 17:24:29,652:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:24:29,652:INFO: -- loading the dataset..
+2018-09-04 17:24:30,060:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:24:30,060:INFO: Epoch 1/1
+2018-09-04 17:25:19,828:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:25:19,828:INFO: -- loading the dataset..
+2018-09-04 17:25:20,236:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:25:20,237:INFO: Epoch 1/1
+2018-09-04 17:26:25,425:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:26:25,425:INFO: -- loading the dataset..
+2018-09-04 17:26:25,819:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:26:25,819:INFO: Epoch 1/1
+2018-09-04 17:26:35,518:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:26:35,518:INFO: -- loading the dataset..
+2018-09-04 17:26:35,891:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:26:35,891:INFO: Epoch 1/1
+2018-09-04 17:31:04,326:INFO: -- initiating TRAINING..
+    - num_epochs: 1
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:31:04,326:INFO: -- loading the dataset..
+2018-09-04 17:31:04,704:INFO: -- start training for 1 epoch(s)
+2018-09-04 17:31:04,704:INFO: Epoch 1/1
+2018-09-04 17:31:51,257:INFO: - Train metrics: loss: -317.866, acc: 0.209
+2018-09-04 17:32:23,207:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:32:23,207:INFO: -- loading the dataset..
+2018-09-04 17:32:23,590:INFO: -- start training for 10 epoch(s)
+2018-09-04 17:32:23,590:INFO: Epoch 1/10
+2018-09-04 17:33:10,171:INFO: - Train metrics: loss: -318.643, acc: 0.208
+2018-09-04 17:33:10,950:INFO: Epoch 2/10
+2018-09-04 17:33:57,523:INFO: - Train metrics: loss: -893.701, acc: 0.191
+2018-09-04 17:33:58,281:INFO: Epoch 3/10
+2018-09-04 17:34:44,026:INFO: - Train metrics: loss: -1401.443, acc: 0.193
+2018-09-04 17:34:44,776:INFO: Epoch 4/10
+2018-09-04 17:35:14,763:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:35:14,764:INFO: -- loading the dataset..
+2018-09-04 17:35:15,142:INFO: -- start training for 10 epoch(s)
+2018-09-04 17:35:15,142:INFO: Epoch 1/10
+2018-09-04 17:36:02,221:INFO: - Train metrics: loss: -315.696, acc: 0.316
+2018-09-04 17:36:03,033:INFO: Epoch 2/10
+2018-09-04 17:36:48,817:INFO: - Train metrics: loss: -887.479, acc: 0.286
+2018-09-04 17:36:49,590:INFO: Epoch 3/10
+2018-09-04 17:37:36,103:INFO: - Train metrics: loss: -1390.117, acc: 0.285
+2018-09-04 17:37:36,905:INFO: Epoch 4/10
+2018-09-04 17:39:40,319:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:39:40,320:INFO: -- loading the dataset..
+2018-09-04 17:39:40,697:INFO: -- start training for 10 epoch(s)
+2018-09-04 17:39:40,697:INFO: Epoch 1/10
+2018-09-04 17:41:16,175:INFO: - Train metrics: loss: 1.880, acc: 0.448
+2018-09-04 17:41:16,968:INFO: Epoch 2/10
+2018-09-04 17:42:09,144:INFO: - Train metrics: loss: 1.979, acc: 0.447
+2018-09-04 17:42:09,941:INFO: Epoch 3/10
+2018-09-04 17:42:56,261:INFO: - Train metrics: loss: 2.062, acc: 0.441
+2018-09-04 17:42:57,053:INFO: Epoch 4/10
+2018-09-04 17:43:43,071:INFO: - Train metrics: loss: 2.092, acc: 0.435
+2018-09-04 17:43:43,871:INFO: Epoch 5/10
+2018-09-04 17:44:29,833:INFO: - Train metrics: loss: 2.149, acc: 0.434
+2018-09-04 17:44:30,629:INFO: Epoch 6/10
+2018-09-04 17:45:17,633:INFO: - Train metrics: loss: 2.150, acc: 0.434
+2018-09-04 17:45:18,441:INFO: Epoch 7/10
+2018-09-04 17:45:35,039:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:45:35,040:INFO: -- loading the dataset..
+2018-09-04 17:45:44,820:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:45:44,820:INFO: -- loading the dataset..
+2018-09-04 17:45:45,619:INFO: -- start training for 10 epoch(s)
+2018-09-04 17:45:45,619:INFO: Epoch 1/10
+2018-09-04 17:46:35,724:INFO: - Train metrics: loss: 1.609, acc: 0.502
+2018-09-04 17:46:36,522:INFO: Epoch 2/10
+2018-09-04 17:47:24,752:INFO: - Train metrics: loss: 1.507, acc: 0.527
+2018-09-04 17:47:25,565:INFO: Epoch 3/10
+2018-09-04 17:48:13,943:INFO: - Train metrics: loss: 1.477, acc: 0.535
+2018-09-04 17:48:14,827:INFO: Epoch 4/10
+2018-09-04 17:49:03,957:INFO: - Train metrics: loss: 1.451, acc: 0.542
+2018-09-04 17:49:04,774:INFO: Epoch 5/10
+2018-09-04 17:49:53,400:INFO: - Train metrics: loss: 1.433, acc: 0.547
+2018-09-04 17:49:54,202:INFO: Epoch 6/10
+2018-09-04 17:50:42,467:INFO: - Train metrics: loss: 1.419, acc: 0.551
+2018-09-04 17:50:43,285:INFO: Epoch 7/10
+2018-09-04 17:51:32,537:INFO: - Train metrics: loss: 1.405, acc: 0.555
+2018-09-04 17:51:33,338:INFO: Epoch 8/10
+2018-09-04 17:52:21,675:INFO: - Train metrics: loss: 1.397, acc: 0.557
+2018-09-04 17:52:22,485:INFO: Epoch 9/10
+2018-09-04 17:53:12,678:INFO: - Train metrics: loss: 1.389, acc: 0.559
+2018-09-04 17:53:13,566:INFO: Epoch 10/10
+2018-09-04 17:54:05,095:INFO: - Train metrics: loss: 1.380, acc: 0.561
+2018-09-04 17:58:43,820:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.01
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 17:58:43,820:INFO: -- loading the dataset..
+2018-09-04 17:58:44,254:INFO: -- start training for 10 epoch(s)
+2018-09-04 17:58:44,254:INFO: Epoch 1/10
+2018-09-04 17:59:33,537:INFO: - Train metrics: loss: 1.610, acc: 0.498
+2018-09-04 18:00:07,285:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.01
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 18:00:07,286:INFO: -- loading the dataset..
+2018-09-04 18:00:07,664:INFO: -- start training for 10 epoch(s)
+2018-09-04 18:00:07,664:INFO: Epoch 1/10
+2018-09-04 18:00:56,365:INFO: - Train metrics: loss: 1.609, acc: 0.497
+2018-09-04 18:01:17,787:INFO: - Eval metrics: loss: 1.561, acc: 0.511
+2018-09-04 18:01:30,511:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.01
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+
+2018-09-04 18:01:30,512:INFO: -- loading the dataset..
+2018-09-04 18:01:30,900:INFO: -- start training for 10 epoch(s)
+2018-09-04 18:01:30,900:INFO: Epoch 1/10
+2018-09-04 18:02:19,087:INFO: - Train metrics: loss: 1.614, acc: 0.497
+2018-09-04 18:02:39,246:INFO: - Eval metrics: loss: 1.577, acc: 0.506
+2018-09-04 18:02:39,345:INFO: -- Found new best accuracy
+2018-09-04 18:02:39,346:INFO: Epoch 2/10
+2018-09-04 18:03:27,601:INFO: - Train metrics: loss: 1.566, acc: 0.509
+2018-09-04 18:03:49,655:INFO: - Eval metrics: loss: 1.556, acc: 0.510
+2018-09-04 18:03:52,064:INFO: -- Found new best accuracy
+2018-09-04 18:03:52,065:INFO: Epoch 3/10
+2018-09-04 18:04:40,144:INFO: - Train metrics: loss: 1.555, acc: 0.512
+2018-09-04 18:05:00,329:INFO: - Eval metrics: loss: 1.547, acc: 0.513
+2018-09-04 18:05:03,252:INFO: -- Found new best accuracy
+2018-09-04 18:05:03,253:INFO: Epoch 4/10
+2018-09-04 18:05:52,078:INFO: - Train metrics: loss: 1.547, acc: 0.514
+2018-09-04 18:06:11,146:INFO: - Eval metrics: loss: 1.529, acc: 0.520
+2018-09-04 18:06:13,336:INFO: -- Found new best accuracy
+2018-09-04 18:06:13,337:INFO: Epoch 5/10
+2018-09-04 18:07:01,328:INFO: - Train metrics: loss: 1.539, acc: 0.516
+2018-09-04 18:07:23,630:INFO: - Eval metrics: loss: 1.533, acc: 0.520
+2018-09-04 18:07:28,142:INFO: -- Found new best accuracy
+2018-09-04 18:07:28,143:INFO: Epoch 6/10
+2018-09-04 18:08:20,739:INFO: - Train metrics: loss: 1.536, acc: 0.518
+2018-09-04 18:08:41,427:INFO: - Eval metrics: loss: 1.534, acc: 0.516
+2018-09-04 18:08:50,537:INFO: Epoch 7/10
+2018-09-04 18:09:39,192:INFO: - Train metrics: loss: 1.533, acc: 0.518
+2018-09-04 18:10:00,079:INFO: - Eval metrics: loss: 1.527, acc: 0.520
+2018-09-04 18:10:02,325:INFO: Epoch 8/10
+2018-09-04 18:10:50,967:INFO: - Train metrics: loss: 1.535, acc: 0.518
+2018-09-04 18:11:12,863:INFO: - Eval metrics: loss: 1.528, acc: 0.521
+2018-09-04 18:11:15,229:INFO: -- Found new best accuracy
+2018-09-04 18:11:15,230:INFO: Epoch 9/10
+2018-09-04 18:12:05,238:INFO: - Train metrics: loss: 1.533, acc: 0.519
+2018-09-04 18:12:29,736:INFO: - Eval metrics: loss: 1.524, acc: 0.521
+2018-09-04 18:12:32,488:INFO: -- Found new best accuracy
+2018-09-04 18:12:32,490:INFO: Epoch 10/10
+2018-09-04 18:13:23,391:INFO: - Train metrics: loss: 1.529, acc: 0.520
+2018-09-04 18:13:44,802:INFO: - Eval metrics: loss: 1.523, acc: 0.521
+2018-09-04 18:13:47,089:INFO: -- Found new best accuracy
+2018-09-04 18:15:46,075:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.01
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 1
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+    - fc_inter: 300
+    - dropout: 0.0
+
+2018-09-04 18:15:46,075:INFO: -- loading the dataset..
+2018-09-04 18:15:46,467:INFO: -- start training for 10 epoch(s)
+2018-09-04 18:15:46,467:INFO: Epoch 1/10
+2018-09-04 18:16:43,424:INFO: - Train metrics: loss: 1.647, acc: 0.490
+2018-09-04 18:17:04,311:INFO: - Eval metrics: loss: 1.600, acc: 0.499
+2018-09-04 18:17:04,375:INFO: -- Found new best accuracy
+2018-09-04 18:17:04,376:INFO: Epoch 2/10
+2018-09-04 18:18:03,403:INFO: - Train metrics: loss: 1.596, acc: 0.502
+2018-09-04 18:18:32,692:INFO: - Eval metrics: loss: 1.574, acc: 0.509
+2018-09-04 18:18:35,938:INFO: -- Found new best accuracy
+2018-09-04 18:18:35,939:INFO: Epoch 3/10
+2018-09-04 18:19:36,617:INFO: - Train metrics: loss: 1.580, acc: 0.505
+2018-09-04 18:19:58,379:INFO: - Eval metrics: loss: 1.574, acc: 0.511
+2018-09-04 18:20:06,022:INFO: -- Found new best accuracy
+2018-09-04 18:20:06,023:INFO: Epoch 4/10
+2018-09-04 18:21:06,485:INFO: - Train metrics: loss: 1.575, acc: 0.506
+2018-09-04 18:21:33,570:INFO: - Eval metrics: loss: 1.567, acc: 0.509
+2018-09-04 18:21:37,879:INFO: Epoch 5/10
+2018-09-04 18:22:37,052:INFO: - Train metrics: loss: 1.572, acc: 0.507
+2018-09-04 18:23:01,504:INFO: - Eval metrics: loss: 1.557, acc: 0.511
+2018-09-04 18:23:06,027:INFO: -- Found new best accuracy
+2018-09-04 18:23:06,028:INFO: Epoch 6/10
+2018-09-04 18:24:03,989:INFO: - Train metrics: loss: 1.567, acc: 0.509
+2018-09-04 18:24:34,163:INFO: -- initiating TRAINING..
+    - num_epochs: 10
+    - batch_size: 16
+    - device: cpu
+    - learning_rate: 0.001
+    - weight_decay: 0.001
+    - embedding_dim: 100
+    - lstm_nb_layers: 2
+    - lstm_hidden_dim: 200
+    - nb_categories: 2
+    - fc_inter: 300
+    - dropout: 0.0
+
+2018-09-04 18:24:34,163:INFO: -- loading the dataset..
+2018-09-04 18:24:34,551:INFO: -- start training for 10 epoch(s)
+2018-09-04 18:24:34,551:INFO: Epoch 1/10
+2018-09-04 18:26:11,556:INFO: - Train metrics: loss: 1.632, acc: 0.496
+2018-09-04 18:26:54,392:INFO: - Eval metrics: loss: 1.539, acc: 0.520
+2018-09-04 18:26:54,652:INFO: -- Found new best accuracy
+2018-09-04 18:26:54,656:INFO: Epoch 2/10
+2018-09-04 18:28:42,511:INFO: - Train metrics: loss: 1.518, acc: 0.524
+2018-09-04 18:29:27,720:INFO: - Eval metrics: loss: 1.486, acc: 0.530
+2018-09-04 18:29:56,024:INFO: -- Found new best accuracy
+2018-09-04 18:29:56,026:INFO: Epoch 3/10
+2018-09-04 18:31:37,058:INFO: - Train metrics: loss: 1.476, acc: 0.535
+2018-09-04 18:32:26,495:INFO: - Eval metrics: loss: 1.448, acc: 0.541
+2018-09-04 18:32:49,716:INFO: -- Found new best accuracy
+2018-09-04 18:32:49,718:INFO: Epoch 4/10
+2018-09-04 18:34:28,069:INFO: - Train metrics: loss: 1.450, acc: 0.542
+2018-09-04 18:35:16,345:INFO: - Eval metrics: loss: 1.420, acc: 0.549
+2018-09-04 18:35:47,691:INFO: -- Found new best accuracy
+2018-09-04 18:35:47,695:INFO: Epoch 5/10
+2018-09-04 18:37:27,313:INFO: - Train metrics: loss: 1.427, acc: 0.548
+2018-09-04 18:38:17,595:INFO: - Eval metrics: loss: 1.400, acc: 0.556
+2018-09-04 18:38:42,897:INFO: -- Found new best accuracy
+2018-09-04 18:38:42,900:INFO: Epoch 6/10
+2018-09-04 18:40:20,016:INFO: - Train metrics: loss: 1.412, acc: 0.552
+2018-09-04 18:41:09,669:INFO: - Eval metrics: loss: 1.382, acc: 0.562
+2018-09-04 18:41:33,789:INFO: -- Found new best accuracy
+2018-09-04 18:41:33,792:INFO: Epoch 7/10
+2018-09-04 18:43:11,279:INFO: - Train metrics: loss: 1.396, acc: 0.557
+2018-09-04 18:43:59,079:INFO: - Eval metrics: loss: 1.370, acc: 0.563
+2018-09-04 18:44:21,412:INFO: -- Found new best accuracy
+2018-09-04 18:44:21,417:INFO: Epoch 8/10
+2018-09-04 18:45:58,123:INFO: - Train metrics: loss: 1.386, acc: 0.559
+2018-09-04 18:46:45,576:INFO: - Eval metrics: loss: 1.355, acc: 0.568
+2018-09-04 18:47:10,540:INFO: -- Found new best accuracy
+2018-09-04 18:47:10,543:INFO: Epoch 9/10
+2018-09-04 18:48:48,452:INFO: - Train metrics: loss: 1.374, acc: 0.563
+2018-09-04 18:49:36,317:INFO: - Eval metrics: loss: 1.344, acc: 0.570
+2018-09-04 18:49:59,862:INFO: -- Found new best accuracy
+2018-09-04 18:49:59,866:INFO: Epoch 10/10
+2018-09-04 18:51:36,326:INFO: - Train metrics: loss: 1.364, acc: 0.565
+2018-09-04 18:52:26,539:INFO: - Eval metrics: loss: 1.333, acc: 0.574
+2018-09-04 18:52:51,656:INFO: -- Found new best accuracy
